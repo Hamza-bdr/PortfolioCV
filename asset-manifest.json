@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PortfolioCV/static/css/main.d5260404.css",
+    "main.js": "/PortfolioCV/static/js/main.9d64c6b7.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PortfolioCV/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hamza.png": "/PortfolioCV/static/media/hamza.9fb9c3373a0c5b3370a7.png",
+    "index.html": "/PortfolioCV/index.html",
+    "main.d5260404.css.map": "/PortfolioCV/static/css/main.d5260404.css.map",
+    "main.9d64c6b7.js.map": "/PortfolioCV/static/js/main.9d64c6b7.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PortfolioCV/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5260404.css",
+    "static/js/main.9d64c6b7.js"
+  ]
+}
