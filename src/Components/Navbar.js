@@ -7,9 +7,9 @@ export default function Navbar (){
     <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
       <div className="flex justify-between h-16">
         <div className="flex-shrink-0 flex items-center">
-          <a href="/">
-            <img className="h-8 w-auto" src={profilePic} alt="Logo" /> 
-          </a>
+        <Link to={"/"}>
+            <img className="h-8 w-auto rounded-full" src={profilePic} alt="Logo" /> 
+          </Link>
         </div>
         <div className="hidden md:block">
           <div className="ml-10 flex items-baseline space-x-4">

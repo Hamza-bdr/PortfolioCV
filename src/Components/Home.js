@@ -17,19 +17,19 @@ function HomePage() {
           <div className="bg-white rounded-lg shadow">
             <div className="p-6">
               <h2 className="text-lg font-medium text-gray-900">Web Design</h2>
-              <p className="mt-2 text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.</p>
+              <p className="mt-2 text-gray-600">Lorem ipsum hala, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing hala, ultricies sed, dolor.</p>
             </div>
           </div>
           <div className="bg-white rounded-lg shadow">
             <div className="p-6">
               <h2 className="text-lg font-medium text-gray-900">Web Development</h2>
-              <p className="mt-2 text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.</p>
+              <p className="mt-2 text-gray-600">Lorem ipsum dolor sit hala, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim hala amet, adipiscing nec, ultricies sed, dolor.</p>
             </div>
           </div>
           <div className="bg-white rounded-lg shadow">
             <div className="p-6">
               <h2 className="text-lg font-medium text-gray-900">SEO Optimization</h2>
-              <p className="mt-2 text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.</p>
+              <p className="mt-2 text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit hala, adipiscing nec, ultricies hala, dolor.</p>
             </div>
           </div>
         </div>

@@ -9,9 +9,9 @@ import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename='/portfolio'>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" exact element={<Home />} />
           <Route path="/about" element={<CV />}/>
           <Route path="/contact" element={<Contact />}/>
           <Route path="*" element={<NoPage />} />
